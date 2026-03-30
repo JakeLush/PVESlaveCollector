@@ -1,0 +1,12 @@
+{
+  "name": "discord-addrole-bot",
+  "version": "1.0.0",
+  "description": "Bot pro hromadné přidávání rolí na Discordu",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
